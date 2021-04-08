@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  margin: 0.8em 0 0.8em 1.8em;
+}
+#header {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+#main {
+  margin-top: 1.5em;
+  margin-bottom: 2.5em;
+}
+#footer {
+  margin-top: 1em;
+  margin-bottom: 1.5em;
+}
+.portal {
+  display: table;
+  position: absolute;
+  height: 85%;
+  width: 100%;
+  text-align: center;
+}
+.portal > div {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.avatar {
+  display: block;
+  height: 160px;
+  width: 160px;
+  background-image: url("rabbit-toy-160x160.png");
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.section {
+  margin: 0.8em auto 0.4em;
+}
+.navigation {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.navigation-item {
+  width: 7em;
+  text-align: center;
+}
+.note {
+  color: lightgray;
+  font-size: smaller;
+  font-weight: lighter;
+}
