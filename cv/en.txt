@@ -61,8 +61,8 @@ Years of development experience. Love technology. Patient, attentive and respons
   2008 ~ now
 
   - `skb`: Simple knowledge base. Technical stack: Crystal
-  - `asciidoctor_cjk_breaks`: An extension for Asciidoctor that suppresses line breaks between east asian characters. Technical stack: Ruby
   - `repos`: A local repositories manager. Technical stack: Rust
+  - `asciidoctor_cjk_breaks`: An extension for Asciidoctor that suppresses line breaks between east asian characters. Technical stack: Ruby
   - `sfss`: Smal file storage service. Technical stack: Python, Beansdb
   - `magicoding`: A naive blog running on Google AppEngine. Technical stack: Python, Tornado, Markdown, Google AppEngine, etc.
   - `webmailbox`: Web mailbox client to manage mails. Technical stack: Python

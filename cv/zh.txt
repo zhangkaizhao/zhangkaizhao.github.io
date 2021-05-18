@@ -61,8 +61,8 @@
   时间：2008年至今
 
   - `skb`：简单的知识库。技术栈：Crystal
-  - `asciidoctor_cjk_breaks`：Asciidoctor 扩展，用于消除东亚字符之间的换行。技术栈：Ruby
   - `repos`：本地代码库管理工具。技术栈：Rust
+  - `asciidoctor_cjk_breaks`：Asciidoctor 扩展，用于消除东亚字符之间的换行。技术栈：Ruby
   - `sfss`：大量小文件存储服务。技术栈：Python、Beansdb
   - `magicoding`：运行在 Google AppEngine 上的小博客。技术栈：Python、Tornado、Markdown、Google AppEngine 等
   - `webmailbox`：使用 web 应用来管理邮件。技术栈：Python
