@@ -73,14 +73,14 @@
 
   - 时间：2016年3月至2017年3月
   - 描述：跨平台家庭设备保护系统，支持 Android、iOS 和 Windows 平台。功能包括：应用程序可用性控制；网页网址访问控制（仅限 Android 和 Windows 平台）；设备可使用时段控制（仅限 Android 和 iOS 平台）；电子地图围栏设定（仅限 Android 和 iOS 平台）；新装应用程序、访问网页网址、设备使用时间的请求即时通知和即时回应控制；设备所在地址变动的及时上报和设备进出电子地图围栏的及时通知；活动历史记录和查阅；设备位置及时跟踪。
-  - 工作内容：接手领导服务器端的开发。修复大量的问题并提升了系统的稳定性。
+  - 工作内容：接手领导服务器端的开发。修复大量的问题并提升了系统的稳定性。协助管理该项目服务器端的持续集成（CI）部分（Gerrit 和 TeamCity）。管理部署在 AWS EC2 实例上的开发测试环境。
   - 服务器端技术栈：Python、Tornado、Cassandra、nginx、Supervisor、Ubuntu Server 等。
 
 * 年度测评
 
   - 时间：2015年11月至2016年1月
   - 描述：外包项目。小型 Django 项目。某单位内部系统，为参加年度考核的在职人员提供民主测评功能，区分一般职工、中层干部及领导班子成员、每年度参与及不参与考核人员，管理后台提供每年度测评内容、考核小组、得分计算、考核等级评定及考核归档等，年度测评结束提供测评结果公示。最后提供管理员操作文档和部署文档。
-  - 技术栈：Python、Django、Gunicorn、MySQL、Ubuntu Server、nginx、bootstrap、jQuery、SASS 等。
+  - 技术栈：Python、Django、Gunicorn、MySQL、Ubuntu Server、nginx、bootstrap、jQuery 等。
 
 * 彩乐透 - 广东彩惠智能科技有限公司
 

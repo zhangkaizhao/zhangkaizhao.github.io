@@ -73,14 +73,14 @@ Years of development experience. Love technology. Patient, attentive and respons
 
   - 2016-03 ~ 2017-03
   - Description: A cross-platform home device protection system that supports Android, iOS, and Windows platforms. Features include: application availability control; web page URL access control (Android and Windows platforms only); device time-of-day control (Android and iOS platforms only); electronic map fence settings (Android and iOS platforms only); new Instant notification and instant response control of application, access to webpage URL, device usage time; timely reporting of device address changes and timely notification of device access to electronic map fence; activity history and review; device location tracking in time.
-  - Take over and lead the back-end development. Fix lots of issues and improve the stability of the system.
+  - Take over and lead the back-end development. Fix lots of issues and improve the stability of the system. Assist in managing the continuous integration (CI) part (Gerrit and TeamCity) on the server side of the project. Manage the development and test environments deployed on AWS EC2 instances.
   - Back-end technical stack: Python, Tornado, Cassandra, nginx, Supervisor, Ubuntu Server, etc.
 
 * Annual assessment
 
   - 2015-11 ~ 2016-01
   - Description: Outsourcing project. Small Django project. The internal system of a institution provides the democratic evaluation function for the incumbents participating in the annual assessment. It distinguishes the general employees, middle-level cadres and members of the leadership team, and participates in the annual assessment and does not participate in the assessment. The admin management provides the annual assessment content, the assessment team, and the score calculation, assessment rating and assessment archives. At the end of the annual assessment it provides publicity announcement of the evaluation results. Finally, the admin operation documentation and deployment documentation are provided.
-  - Technical stack: Python, Django, Gunicorn, MySQL, Ubuntu Server, nginx, bootstrap, jQuery, SASS, etc.
+  - Technical stack: Python, Django, Gunicorn, MySQL, Ubuntu Server, nginx, bootstrap, jQuery, etc.
 
 * Cailetou - Guangdong Caihui Inc.
 
