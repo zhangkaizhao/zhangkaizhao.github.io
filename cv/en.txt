@@ -8,6 +8,12 @@ Years of development experience. Love technology. Patient, attentive and respons
 
 ## Work experience
 
+* Software Engineer - Shenzhen Bkunyun Co., Ltd.
+
+  - 2022-06 ~ now, Shenzhen
+  - Serve as a developer in the development of the high-performance file system.
+  - Technical stack: Rust, tokio, RocksDB, AWS S3, etc.
+
 * Technical Director - Dayue Technology (Shenzhen) Co., Ltd.
 
   - 2019-10 ~ 2020-03, Shenzhen
@@ -63,7 +69,7 @@ Years of development experience. Love technology. Patient, attentive and respons
   - `skb`: Simple knowledge base. Technical stack: Crystal
   - `repos`: A local repositories manager. Technical stack: Rust
   - `asciidoctor_cjk_breaks`: An extension for Asciidoctor that suppresses line breaks between east asian characters. Technical stack: Ruby
-  - `sfss`: Smal file storage service. Technical stack: Python, Beansdb
+  - `sfss`: Small file storage service. Technical stack: Python, Beansdb
   - `magicoding`: A naive blog running on Google AppEngine. Technical stack: Python, Tornado, Markdown, Google AppEngine, etc.
   - `webmailbox`: Web mailbox client to manage mails. Technical stack: Python
 
@@ -123,7 +129,7 @@ Years of development experience. Love technology. Patient, attentive and respons
   - GitHub: https://github.com/zhangkaizhao
   - LinkedIn: https://www.linkedin.com/in/zhangkaizhao
 
-* Working
+* Working (mostly outdated)
 
   - Safe Family: http://family.mcafee.com/
   - Cailetou: http://www.clt500.com/

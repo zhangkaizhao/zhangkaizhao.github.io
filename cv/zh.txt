@@ -8,6 +8,12 @@
 
 ## 工作经历
 
+* 软件工程师 - 深圳北鲲云计算有限公司
+
+  - 时间地点：2022年6月至今，深圳
+  - 工作内容：参与文件系统开发。
+  - 技术栈：Rust、tokio、RocksDB、AWS S3 等。
+
 * 技术负责人 - 大岳科技（深圳）有限公司
 
   - 时间地点：2019年10月至2020年3月，深圳
@@ -123,7 +129,7 @@
   - GitHub：https://github.com/zhangkaizhao
   - 领英：https://www.linkedin.com/in/zhangkaizhao
 
-* 工作的
+* 工作的（大部分已经过时）
 
   - Safe Family：http://family.mcafee.com/
   - 彩乐透：http://www.clt500.com/
