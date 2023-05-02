@@ -66,6 +66,7 @@ Years of development experience. Love technology. Patient, attentive and respons
 
   2008 ~ now
 
+  - `quick-doc-viewer`: A quick documentation viewer for developers to preview documentations. Technical stack: Rust
   - `skb`: Simple knowledge base. Technical stack: Crystal
   - `repos`: A local repositories manager. Technical stack: Rust
   - `asciidoctor_cjk_breaks`: An extension for Asciidoctor that suppresses line breaks between east asian characters. Technical stack: Ruby
@@ -73,7 +74,7 @@ Years of development experience. Love technology. Patient, attentive and respons
   - `magicoding`: A naive blog running on Google AppEngine. Technical stack: Python, Tornado, Markdown, Google AppEngine, etc.
   - `webmailbox`: Web mailbox client to manage mails. Technical stack: Python
 
-  More personal projects and details can be found on the personal website and the GitHub repositories (see link below).
+  More personal projects and details can be found from my GitHub account (see link below).
 
 * Safe Family - Intel China Inc. Shenzhen branch
 

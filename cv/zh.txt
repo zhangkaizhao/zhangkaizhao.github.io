@@ -66,6 +66,7 @@
 
   时间：2008年至今
 
+  - `quick-doc-viewer`: 快速文档查看器，方便开发人员预览文档。技术栈：Rust
   - `skb`：简单的知识库。技术栈：Crystal
   - `repos`：本地代码库管理工具。技术栈：Rust
   - `asciidoctor_cjk_breaks`：Asciidoctor 扩展，用于消除东亚字符之间的换行。技术栈：Ruby
@@ -73,7 +74,7 @@
   - `magicoding`：运行在 Google AppEngine 上的小博客。技术栈：Python、Tornado、Markdown、Google AppEngine 等
   - `webmailbox`：使用 web 应用来管理邮件。技术栈：Python
 
-  更多个人项目及详情请查阅个人网站和 GitHub 个人账号代码库（见后面链接）。
+  更多个人项目及详情请访问本人 GitHub 账号（见后面链接）。
 
 * Safe Family - 英特尔（中国）有限公司深圳分公司
 
