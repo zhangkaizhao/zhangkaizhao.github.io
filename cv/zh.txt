@@ -10,9 +10,8 @@
 
 * 软件工程师 - 深圳北鲲云计算有限公司
 
-  - 时间地点：2022年6月至今，深圳
-  - 工作内容：参与文件系统开发。
-  - 技术栈：Rust、tokio、RocksDB、AWS S3 等。
+  - 时间地点：2022年6月至2023年7月，深圳
+  - 工作内容：参与 BurstFS/CloudamFS 文件系统开发（见后面项目描述）。
 
 * 技术负责人 - 大岳科技（深圳）有限公司
 
@@ -76,6 +75,13 @@
 
   更多个人项目及详情请访问本人 GitHub 账号（见后面链接）。
 
+* BurstFS/CloudamFS - 深圳北鲲云计算有限公司
+
+  - 时间：2022年6月至2023年7月
+  - 描述：高性能并行文件系统，基于拦截器技术（LD_PRELOAD），兼容 POSIX，主要应用于公有云上，包括 AWS、阿里云、华为云等，为高性能计算（HPC）软件提供底层文件系统支撑。BurstFS 在 IO500 的 SC22 排名中位列第 7 位（见后面链接）。
+  - 工作内容：主要负责文件系统与外部对象存储服务的同步以及多个文件系统集群之间的同步。
+  - 技术栈：Rust、tokio、RocksDB、gRPC、AWS S3、阿里云 OSS 等。
+
 * Safe Family - 英特尔（中国）有限公司深圳分公司
 
   - 时间：2016年3月至2017年3月
@@ -138,6 +144,9 @@
   - Syncbox：http://www.syncbox.cn/ 和 http://www.isyncbox.com/
   - EveryDo：http://www.everydo.com/
 
+  - 深圳北鲲云计算有限公司：https://www.bkunyun.com/
   - 广州七乐康药业连锁有限公司：http://www.7lk.com/
   - 广州网融网络技术有限公司：http://www.g4b.cn/
   - 汕头超声显示器有限公司：http://www.goworld-lcd.com/
+
+  - IO500 SC22：https://io500.org/list/sc22/io500

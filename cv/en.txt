@@ -10,9 +10,8 @@ Years of development experience. Love technology. Patient, attentive and respons
 
 * Software Engineer - Shenzhen Bkunyun Co., Ltd.
 
-  - 2022-06 ~ now, Shenzhen
-  - Serve as a developer in the development of the high-performance file system.
-  - Technical stack: Rust, tokio, RocksDB, AWS S3, etc.
+  - 2022-06 ~ 2023-07, Shenzhen
+  - Serve as a developer in the development of BurstFS/CloudamFS - high-performance file system (see project description below).
 
 * Technical Director - Dayue Technology (Shenzhen) Co., Ltd.
 
@@ -76,6 +75,12 @@ Years of development experience. Love technology. Patient, attentive and respons
 
   More personal projects and details can be found from my GitHub account (see link below).
 
+* BurstFS/CloudamFS - Shenzhen Bkunyun Co., Ltd.
+  - 2022-06 ~ 2023-07
+  - Description: High-performance parallel file system, based on interceptor technology (LD_PRELOAD), compatible with POSIX, mainly used on public clouds, including AWS, Alibaba Cloud, Huawei Cloud, etc., providing underlying file system support for high-performance computing (HPC) software. BurstFS ranks 7th in IO500's SC22 ranking (see link below).
+  - Mainly responsible for the synchronization between the file system and external object storage services and the synchronization between multiple file system clusters.
+  - Technical stack: Rust, tokio, RocksDB, gRPC, AWS S3, Alibaba Cloud OSS, etc.
+
 * Safe Family - Intel China Inc. Shenzhen branch
 
   - 2016-03 ~ 2017-03
@@ -138,6 +143,9 @@ Years of development experience. Love technology. Patient, attentive and respons
   - Syncbox: http://www.syncbox.cn/ and http://www.isyncbox.com/
   - EveryDo: http://www.everydo.com/
 
+  - Shenzhen Bkunyun Co., Ltd.: https://www.bkunyun.com/
   - Guangzhou Qilekang Inc.: http://www.7lk.com/
   - Guangzhou Wangrong Inc.: http://www.g4b.cn/
   - Shantou Goworld Display Inc.: http://www.goworld-lcd.com/
+
+  - IO500 SC22：https://io500.org/list/sc22/io500
